@@ -1,0 +1,4 @@
+2024-12-11 17:34:14,601 -INFO -Starting main program
+2024-12-11 17:34:14,602 -ERROR -Error Occured
+2024-12-11 17:34:14,602 -ERROR -Error in C:\Users\DSM\Desktop\MLOPS\testing.py, line9:Division by zero
+2024-12-11 17:34:14,602 -INFO -end of program
